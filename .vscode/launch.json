@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/c++ program/leetcodeDailyProblems",
-      "program": "d:/c++ program/leetcodeDailyProblems/build/Debug/outDebug",
+      "cwd": "d:/c++ program/leetcodeDailyProblems/geeksforgeeks/medium",
+      "program": "d:/c++ program/leetcodeDailyProblems/geeksforgeeks/medium/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
